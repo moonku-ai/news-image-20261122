@@ -1,6 +1,10 @@
 # The World in Seven Frames — 22 November 2026
 
-A make.fun bounty entry: a pure Python (stdlib only) program that draws one
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/moonku-ai/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/moonku-ai/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+
+A [make.fun](https://make.fun/bounty/news-image-20261122) bounty entry: a pure Python (stdlib only) program that draws one
 1024x1024 image summing up the world news of Sunday 22 November 2026 and
 writes it to `/output/entry.png`.
 
